@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "solution/1.0.0": {
+        "dependencies": {
+          "context": "1.0.0",
+          "matrix": "1.0.0",
+          "strategies": "1.0.0"
+        },
+        "runtime": {
+          "solution.dll": {}
+        }
+      },
+      "context/1.0.0": {
+        "dependencies": {
+          "matrix": "1.0.0",
+          "strategies": "1.0.0"
+        },
+        "runtime": {
+          "context.dll": {}
+        }
+      },
+      "matrix/1.0.0": {
+        "dependencies": {
+          "strategies": "1.0.0"
+        },
+        "runtime": {
+          "matrix.dll": {}
+        }
+      },
+      "strategies/1.0.0": {
+        "runtime": {
+          "strategies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "strategies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

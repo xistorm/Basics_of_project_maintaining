@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xistorm/self/opd/task-1(OOP)/context/context.csproj": {}
+  },
+  "projects": {
+    "/Users/xistorm/self/opd/task-1(OOP)/context/context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xistorm/self/opd/task-1(OOP)/context/context.csproj",
+        "projectName": "context",
+        "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/context/context.csproj",
+        "packagesPath": "/Users/xistorm/.nuget/packages/",
+        "outputPath": "/Users/xistorm/self/opd/task-1(OOP)/context/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xistorm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/xistorm/self/opd/task-1(OOP)/matrix/matrix.csproj": {
+                "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/matrix/matrix.csproj"
+              },
+              "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj": {
+                "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xistorm/self/opd/task-1(OOP)/matrix/matrix.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xistorm/self/opd/task-1(OOP)/matrix/matrix.csproj",
+        "projectName": "matrix",
+        "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/matrix/matrix.csproj",
+        "packagesPath": "/Users/xistorm/.nuget/packages/",
+        "outputPath": "/Users/xistorm/self/opd/task-1(OOP)/matrix/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xistorm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj": {
+                "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj",
+        "projectName": "strategies",
+        "projectPath": "/Users/xistorm/self/opd/task-1(OOP)/strategies/strategies.csproj",
+        "packagesPath": "/Users/xistorm/.nuget/packages/",
+        "outputPath": "/Users/xistorm/self/opd/task-1(OOP)/strategies/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xistorm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
