@@ -1,0 +1,45 @@
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/context.deps.json
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/context.dll
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/ref/context.dll
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/context.pdb
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.csproj.AssemblyReference.cache
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.AssemblyInfoInputs.cache
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.AssemblyInfo.cs
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.csproj.CoreCompileInputs.cache
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.dll
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/ref/context.dll
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.pdb
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/task-2/context/bin/Debug/net6.0/observer.pdb
+/Users/xistorm/self/opd/task-2/context/obj/Debug/net6.0/context.csproj.CopyComplete
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/ref/context.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.pdb
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/context.deps.json
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/context.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/ref/context.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/context.pdb
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/bin/Debug/net6.0/observer.pdb
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.csproj.AssemblyReference.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.AssemblyInfoInputs.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.AssemblyInfo.cs
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.csproj.CoreCompileInputs.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/context/obj/Debug/net6.0/context.csproj.CopyComplete
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\bin\Debug\net6.0\context.deps.json
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\bin\Debug\net6.0\context.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\bin\Debug\net6.0\context.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\bin\Debug\net6.0\observer.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\bin\Debug\net6.0\observer.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.csproj.AssemblyReference.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.AssemblyInfoInputs.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.AssemblyInfo.cs
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.csproj.CoreCompileInputs.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.csproj.CopyComplete
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\refint\context.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\context.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\context\obj\Debug\net6.0\ref\context.dll

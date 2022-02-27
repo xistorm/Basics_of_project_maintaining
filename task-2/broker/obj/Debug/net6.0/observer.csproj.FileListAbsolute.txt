@@ -1,0 +1,36 @@
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.csproj.AssemblyReference.cache
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.AssemblyInfoInputs.cache
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.AssemblyInfo.cs
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.csproj.CoreCompileInputs.cache
+/Users/xistorm/self/opd/task-2/broker/bin/Debug/net6.0/observer.deps.json
+/Users/xistorm/self/opd/task-2/broker/bin/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/task-2/broker/bin/Debug/net6.0/ref/observer.dll
+/Users/xistorm/self/opd/task-2/broker/bin/Debug/net6.0/observer.pdb
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/ref/observer.dll
+/Users/xistorm/self/opd/task-2/broker/obj/Debug/net6.0/observer.pdb
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.csproj.AssemblyReference.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.AssemblyInfoInputs.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.AssemblyInfo.cs
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.csproj.CoreCompileInputs.cache
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/ref/observer.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/obj/Debug/net6.0/observer.pdb
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/bin/Debug/net6.0/observer.deps.json
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/bin/Debug/net6.0/observer.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/bin/Debug/net6.0/ref/observer.dll
+/Users/xistorm/self/opd/extended(OOP)/task-2/broker/bin/Debug/net6.0/observer.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\bin\Debug\net6.0\observer.deps.json
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\bin\Debug\net6.0\observer.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\bin\Debug\net6.0\observer.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.csproj.AssemblyReference.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.AssemblyInfoInputs.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.AssemblyInfo.cs
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\refint\observer.dll
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\observer.pdb
+C:\Users\xis40\OneDrive\Desktop\учеба\3 курс\опд\инд задания\task-2\broker\obj\Debug\net6.0\ref\observer.dll
